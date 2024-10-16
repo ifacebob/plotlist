@@ -217,3 +217,6 @@ input, textarea, select, #search-button, #chooseCategory{
   gap: 1rem;
 }
 
+git remote add origin https://github.com/ifacebob/plotlist.git
+git branch -M main
+git push -u origin main
